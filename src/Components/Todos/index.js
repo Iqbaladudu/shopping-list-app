@@ -20,7 +20,7 @@ const Todos = (props) => {
                         {todo.count}
                       </div>
                       <button 
-                      onClick={() => props.onSubstraction(index)} className={styles.todoActionbutton}>
+                      onClick={() => props.onSubstraction(index)} className={styles.todoActionButton}>
                         <img src={minusIcon} alt="minus icon" />
                       </button>
                       <button
