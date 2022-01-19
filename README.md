@@ -1,8 +1,8 @@
-# Counter App - React Introduction
+# Shopping List App
 
 ## Happy coding!
 
-##### Apa yang akan kamu pelajari dari app ini?
+##### Things that i done in this project
 
 - React state management (dengan useState)
 - React life cycle (dengan useEffect)
@@ -11,5 +11,3 @@
 - Membuat aplikasi dengan banyak Components
 - Memberikan type untuk props dengan prop-types
 - CSS Module dan dynamic className dengan classnames
-
-&copy; wegodev | version 1.1.0
